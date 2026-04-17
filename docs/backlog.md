@@ -148,3 +148,12 @@ As a user, I want to be able to view my personal details, preferences, and order
 - All displayed data is accurate updated in real time after changes
 
 ---
+
+## User Story 12: Add User Payment Methods
+As a user, I want to be able to add different kinds of payment methods, so that I can conveniently choose how to pay for my orders
+
+**Priority:** Medium  
+**Story Points:** 3  
+**Acceptance Criteria:**
+- Allows adding/removing preferred payment methods
+- Allows switching preferred payment methods

@@ -22,3 +22,6 @@ Project: Kangina – Smart Restaurant Ordering System
 | 13. Unclear Requirements | 4 | 4 | 16 | Conduct stakeholder reviews and maintain updated requirement docs | Docs Lead |
 | 14. Incomplete Documentation Updates | 3 | 3 | 9 | Regulary review and update documentation after each sprint | Docs Lead |
 | 15. Poor Task Coordination | 3 | 4 | 12 | Use sprint meetings and task tracking tools to align team efforts | PM |
+| 16. Insecure Storage of Payment Methods | 3 | 5 | 15 | Store only masked data or tokens; avoid sensitive info storage | DevOps
+| 17. Invalid or Incorrect Payment Method Input | 3 | 4 | 12 | Add strict input validation and format checking | QA Lead
+| 18. UI Complexity in Managing Payment Methods | 3 | 3 | 9 | Keep UI simple (having only add/remove/select buttons) | QA Lead
