@@ -3,7 +3,7 @@ Project: Kangina – Smart Restaurant Ordering System
 
 ---
 
-## User Story 1: User Registration
+## User Story 1: User Registrationde
 As a new user, I want to register an account so that I can access the system features.
 
 **Priority:** High  
@@ -136,19 +136,7 @@ As a customer, I want to mark dishes as favorites so that I can quickly find and
 
 ---
 
-## User Story 11: Add User Payment Methods
-As a user, I want to be able to add different kinds of payment methods, so that I can conveniently choose how to pay for my orders
-
-**Priority:** Medium  
-**Story Points:** 3  
-
-**Acceptance Criteria:**
-- Allows adding/removing preferred payment methods
-- Allows switching preferred payment methods
-
----
-
-## User Story 12: User Page and Details
+## User Story 11: User Page and Details
 As a user, I want to be able to view my personal details, preferences, and order history so that I can manage my accounts and track my history
 
 **Priority:** High  
@@ -158,3 +146,14 @@ As a user, I want to be able to view my personal details, preferences, and order
 - User can view personal information and update preferences
 - User can view order history with full transaction details
 - All displayed data is accurate updated in real time after changes
+
+---
+
+## User Story 12: Add User Payment Methods
+As a user, I want to be able to add different kinds of payment methods, so that I can conveniently choose how to pay for my orders
+
+**Priority:** Medium  
+**Story Points:** 3  
+**Acceptance Criteria:**
+- Allows adding/removing preferred payment methods
+- Allows switching preferred payment methods

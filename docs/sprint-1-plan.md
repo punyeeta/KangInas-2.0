@@ -84,4 +84,19 @@ Week 2 – Week 3 (2 weeks)
   - Send order data to backend / API endpoint  
   - Store order in database with initial status (e.g., Pending)  
   - Clear cart after successful order placement  
-  - Show order confirmation message to user  
+  - Show order confirmation message to user
+
+---
+
+### 7. Add User Payment Methods
+- **Priority:** Medium  
+- **Story Points:** 3  
+- **Owner:** Limpahan, Mark Vincent
+- **Tasks:**
+  - Create “Payment Methods” section in user profile
+  - Design UI for adding payment methods (e.g., GCash, Card)
+  - Implement add payment method functionality
+  - Implement remove payment method
+  - Implement set preferred payment method
+  - Validate payment method inputs
+  - Store payment method securely (masked/tokenized)
